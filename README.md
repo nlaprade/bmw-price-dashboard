@@ -44,9 +44,6 @@ The dataset used in this project contains 10,781 BMW listings.
 
 All dependencies are listed in `requirements.txt`.
 
-## Preview
-
-![BMW Price Prediction Dashboard](images/dashboard-preview.jpg)
 ## Authors
 
 Nicholas Laprade 

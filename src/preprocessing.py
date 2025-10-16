@@ -1,4 +1,3 @@
-
 """
 Author: Nicholas Laprade
 Date: 2025-10-08
